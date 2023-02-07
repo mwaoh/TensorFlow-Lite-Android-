@@ -1,2 +1,4 @@
 # TensorFlow-Lite-Android-
 Integration of TensorFlow Lite with Android Studio for efficient on-device model deployment
+
+TensorFlow Lite is an open-source framework for building and deploying lightweight machine learning models on mobile and embedded devices. Integrating TensorFlow Lite with Android Studio streamlines the deployment of machine learning models on Android devices, providing a seamless development experience for ML developers. The integration of TensorFlow Lite with Android Studio includes features such as the ability to build and run TensorFlow Lite models directly from the Android Studio IDE, access to pre-trained models for common use cases, and support for on-device model evaluation and debugging. By combining the power of TensorFlow Lite with the ease of use of Android Studio, developers can efficiently build and deploy ML models on a wide range of Android devices, providing enhanced performance and improved user experiences.
